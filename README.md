@@ -1,2 +1,2 @@
 # Uploading
-Uploading several fichier xith js and c#
+Uploading several fichier with js and c#
