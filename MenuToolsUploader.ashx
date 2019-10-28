@@ -1,0 +1,1 @@
+<%@ WebHandler Language="C#" CodeBehind="MenuToolsUploader.ashx.cs" Class="Common.MenuToolsUploader" %>
